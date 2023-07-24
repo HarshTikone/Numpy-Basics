@@ -1,7 +1,5 @@
 # Numpy Basics: A Beginner's Guide to NumPy
 
-![Numpy Logo](numpy_logo.png)
-
 ## Introduction
 
 Numpy Basics is a comprehensive and beginner-friendly guide designed to introduce users to the fundamental concepts and functionalities of NumPy, the fundamental package for scientific computing with Python. This tutorial is aimed at individuals with a basic understanding of Python and aims to help them grasp the power and versatility of NumPy for numerical computations.
